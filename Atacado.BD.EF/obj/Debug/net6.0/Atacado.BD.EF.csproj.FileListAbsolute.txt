@@ -1,0 +1,28 @@
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.deps.json
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.runtimeconfig.json
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.dll
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.pdb
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.csproj.AssemblyReference.cache
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.AssemblyInfoInputs.cache
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.AssemblyInfo.cs
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.csproj.CoreCompileInputs.cache
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.dll
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\refint\Atacado.BD.EF.dll
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.pdb
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.genruntimeconfig.cache
+C:\Users\SQL\Documents\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\ref\Atacado.BD.EF.dll
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.deps.json
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.runtimeconfig.json
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.dll
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\bin\Debug\net6.0\Atacado.BD.EF.pdb
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.csproj.AssemblyReference.cache
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.AssemblyInfoInputs.cache
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.AssemblyInfo.cs
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.csproj.CoreCompileInputs.cache
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.dll
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\refint\Atacado.BD.EF.dll
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.pdb
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\Atacado.BD.EF.genruntimeconfig.cache
+c:\Users\maykj\OneDrive\Área de Trabalho\ProjetoPOO2\Atacado.BD.EF\obj\Debug\net6.0\ref\Atacado.BD.EF.dll
